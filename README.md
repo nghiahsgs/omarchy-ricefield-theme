@@ -24,13 +24,11 @@ Copy this repository to `~/.config/omarchy/themes/ricefield`, then apply:
 omarchy theme set ricefield
 ```
 
-Once published, install using the repository's GitHub URL:
+Install using the repository's GitHub URL:
 
 ```sh
-omarchy theme install https://github.com/YOUR_USERNAME/omarchy-ricefield-theme
+omarchy theme install https://github.com/nghiahsgs/omarchy-ricefield-theme
 ```
-
-Replace `YOUR_USERNAME` with the publishing account.
 
 ## Coverage
 
