@@ -1,0 +1,35 @@
+# Ricefield — a Vietnamese village at dusk.
+mode = "dark"
+
+accent = "#d8b568"
+selection = "#3d5140"
+muted = "#526758"
+
+background = "#18251f"
+dark_background = "#131d18"
+darker_background = "#0e1612"
+lighter_background = "#24352b"
+
+foreground = "#e9dfc5"
+dark_foreground = "#718574"
+light_foreground = "#b8bea5"
+bright_foreground = "#f7efd9"
+
+red = "#d9897b"
+yellow = "#d8b568"
+orange = "#cf8b72"
+green = "#a6bd78"
+cyan = "#8eb8a0"
+blue = "#8eafbd"
+magenta = "#c79baa"
+brown = "#906d51"
+
+bright_red = "#eda698"
+bright_yellow = "#edd08a"
+bright_green = "#bed394"
+bright_cyan = "#acd0b8"
+bright_blue = "#abc8d3"
+bright_magenta = "#dfb5c3"
+
+hyprland_active_border = "#d8b568"
+hyprland_inactive_border = "#3a4c3e"
