@@ -4,6 +4,12 @@ A dark Omarchy theme inspired by a peaceful Vietnamese village at dusk: bamboo s
 
 ![Vietnamese village at dusk](backgrounds/ricefield-dusk.png)
 
+## Video introduction
+
+[![Watch the Ricefield introduction](media/ricefield-introduction.jpg)](https://github.com/nghiahsgs/omarchy-ricefield-theme/blob/main/media/ricefield-introduction.mp4)
+
+[Watch or download the 30-second introduction](https://github.com/nghiahsgs/omarchy-ricefield-theme/raw/refs/heads/main/media/ricefield-introduction.mp4) — 1080p footage recorded on Omarchy, featuring the wallpaper, a scripted terminal palette demo, and the native theme picker. Edited with titles, fades, and an original synthesized ambient soundtrack. The wallpaper is AI-generated; the desktop footage is a real screen recording.
+
 ## Palette
 
 | Color | Hex | Inspiration |
@@ -46,4 +52,4 @@ Publish this as a standalone public repository named `omarchy-ricefield-theme`, 
 
 ## License
 
-Theme configuration and documentation: MIT. The generated wallpaper is provided under the same terms to the extent applicable rights exist. Yaru icons remain under their upstream licenses.
+Theme configuration, documentation, introduction video, and original soundtrack: MIT. The generated wallpaper is provided under the same terms to the extent applicable rights exist. Yaru icons remain under their upstream licenses.
